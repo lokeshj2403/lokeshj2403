@@ -4,12 +4,12 @@
 
 ## 💫 About Me
 
-🌱 Currently exploring: **Advanced Data Engineering, Full Stack Development, CI/CD Pipelines**  
+🌱 Currently exploring: **Advanced Data Engineering, MLOps, Dockerized Pipelines**  
 🎓 Final Year B.Tech Student at **Dayananda Sagar University**  
 📊 Passionate about transforming raw data into actionable insights  
-📫 Reach me at: **lokeshjreddy2403@gmail.com**  
+🤝 Team Collaborator at [PDD-team6](https://github.com/PDD-team6) – built **PillowMart**, a full-stack e-commerce platform  
 ⚡ Fun Fact: I automate things before doing them manually twice  
-🧠 Currently improving: Scalable ETL architectures ,Full Stack Develelopment and deep learning models
+🧠 Improving: Cloud-based deployments and scalable microservices
 
 ---
 
@@ -29,9 +29,24 @@
 
 ## 🚀 Highlight Projects
 
-- 🔁 [**ETL-Pipeline**](https://github.com/lokeshj2403/ETL-Pipeline) — Real-time Binance API data pipeline with MySQL, deduplication, and Docker support.
-- 🔐 [**Malware-Classification**](https://github.com/lokeshj2403/Malware-Classification) — Traditional ML + CNN/RNN deep learning hybrid achieving 99.11% accuracy.
-- 📊 [**R Shiny Projects**](https://github.com/lokeshj2403/R) — Dashboard apps for data visualization, voting systems, and digit recognition using R and Keras.
+### 🔁 [ETL-Pipeline](https://github.com/lokeshj2403/ETL-Pipeline)  
+> Real-time Binance data ingestion, transformation with technical indicators, and MySQL loading — all Docker-ready.
+
+### 🔐 [Malware-Classification](https://github.com/lokeshj2403/Malware-Classification)  
+> Traditional ML and deep learning models (CNN, RNN) for malware detection. Achieved 99.11% accuracy.
+
+---
+
+## 👥 Team Projects
+
+### 🛍️ [PillowMart](https://github.com/PDD-team6/pillowmart)  
+A full-stack e-commerce platform developed under **PDD-team6 GitHub Organization**.  
+Features:  
+- Frontend using HTML/CSS/JS  
+- Backend logic NodeJS  
+- MySQL database integration  
+- Dockerized deployment  
+- Team workflow via Git/GitHub Projects
 
 ---
 
@@ -41,9 +56,16 @@
   <a href="https://www.linkedin.com/in/lokeshj2403" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" alt="LinkedIn" />
   </a>
-  <a href="mailto:lokeshj2403@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50" alt="Gmail" />
-  </a>
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="left">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="80" title="Quickdraw - PR merged within 1 hour" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="80" title="YOLO - Merged PR without code review" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80" title="Pull Shark - PR merged" />
 </p>
 
 ---
@@ -61,14 +83,11 @@
 
 ---
 
-## 🏆 GitHub Achievements
+## 🏷️ GitHub Badge
 
 <p align="left">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="80" title="Quickdraw - Merged a pull request within 1 hour of opening it" />
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="80" title="YOLO - Merged a pull request without code review" />
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80" title="Pull Shark - Merged a pull request" />
+  <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif" height="25px">
 </p>
-
 
 ---
 
