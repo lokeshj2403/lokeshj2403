@@ -4,7 +4,7 @@
 
 ## 💫 About Me
 
-🌱 Currently exploring: **Advanced Data Engineering, MLOps, Dockerized Pipelines**  
+🌱 Currently exploring: **Advanced Data Engineering, DevOps, CI/CD Pipelines**  
 🎓 Final Year B.Tech Student at **Dayananda Sagar University**  
 📊 Passionate about transforming raw data into actionable insights  
 🤝 Team Collaborator at [PDD-team6](https://github.com/PDD-team6) – built **PillowMart**, a full-stack e-commerce platform  
@@ -79,14 +79,6 @@ Features:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokeshj2403&layout=compact&theme=tokyonight" height="160"/>
-</p>
-
----
-
-## 🏷️ GitHub Badge
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif" height="25px">
 </p>
 
 ---
