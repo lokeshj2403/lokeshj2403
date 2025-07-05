@@ -4,12 +4,12 @@
 
 ## 💫 About Me
 
-🌱 Currently exploring: **Advanced Data Engineering, MLOps, Dockerized Pipelines**  
+🌱 Currently exploring: **Advanced Data Engineering, Full Stack Development, CI/CD Pipelines**  
 🎓 Final Year B.Tech Student at **Dayananda Sagar University**  
 📊 Passionate about transforming raw data into actionable insights  
-📫 Reach me at: **lokeshj2403@gmail.com**  
+📫 Reach me at: **lokeshjreddy2403@gmail.com**  
 ⚡ Fun Fact: I automate things before doing them manually twice  
-🧠 Currently improving: Scalable ETL architectures and deep learning models
+🧠 Currently improving: Scalable ETL architectures ,Full Stack Develelopment and deep learning models
 
 ---
 
