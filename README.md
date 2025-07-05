@@ -1,53 +1,72 @@
-# Hi there 👋 I'm Lokesh J ([@lokeshj2403](https://github.com/lokeshj2403))
+# 👋 Hey there, I'm Lokesh J
 
-**📍 Bengaluru, India • Data Engineer & ML Enthusiast**
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212776541-bd738f3f-1db7-4b94-b63d-739c84ca096b.gif" alt="banner">
 
----
+## 💫 About Me
 
-## 🔧 Tech Stack & Interests
-- **Languages & Tools**: Python, R, SQL, MySQL, Docker, Binance API, Pandas, NumPy
-- **Domains**: Data Engineering, ETL Pipelines, Malware Analysis, Deep Learning, Shiny Web Apps
-- **Areas of Interest**: Feature engineering, microservices, real-time data pipelines, CNNs/RNNs, cyber security
-
----
-
-## 🚀 Featured Projects
-
-### 1. **ETL‑Pipeline**  
-A container-ready ETL system that fetches real-time Worldcoin (WLD) market data from Binance every 5 minutes, transforms it using in-memory processing and technical indicators (SMA, EMA, TMA), and loads it into a MySQL database with deduplication and error handling :contentReference[oaicite:1]{index=1}.
-
-### 2. **Malware‑Classification**  
-Implements both classic ML (Random Forest, Logistic Regression) and deep learning (CNN, RNN) for malware classification. Notably, the RNN model achieves **99.11% accuracy** :contentReference[oaicite:2]{index=2}.
-
-### 3. **R (Shiny & CNN Projects)**  
-Five interactive Shiny apps (voting systems, data visualization, dataset analyzer) plus a CNN-powered digit recognition mini-project using MNIST and R’s Keras package :contentReference[oaicite:3]{index=3}.
-
-### 4. Other Repos  
-- **Malware‑Analysis**: Jupyter notebook-based exploratory analysis and dataset prep :contentReference[oaicite:4]{index=4}  
-- **moveit2**: Frontend demo with Tailwind CSS and Vite :contentReference[oaicite:5]{index=5}  
+🌱 Currently exploring: **Advanced Data Engineering, MLOps, Dockerized Pipelines**  
+🎓 Final Year B.Tech Student at **Dayananda Sagar University**  
+📊 Passionate about transforming raw data into actionable insights  
+📫 Reach me at: **lokeshj2403@gmail.com**  
+⚡ Fun Fact: I automate things before doing them manually twice  
+🧠 Currently improving: Scalable ETL architectures and deep learning models
 
 ---
 
-## 💼 What I'm Working On
-- Enhancing the ETL pipeline with **Docker Compose** and cron scheduling
-- Expanding malware projects to include transformer-based models or dashboards
-- Exploring containerization of Shiny apps and deploying R-based web services
+## 💻 Skills
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=plastic&logo=python&logoColor=white) 
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=plastic&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=plastic&logo=r&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=plastic&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=plastic&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=plastic&logo=Jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=plastic&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 🔭 Get in Touch
-- **LinkedIn**: [in/lokeshj2403](https://www.linkedin.com/in/lokeshj2403)  
-- **Open to**: Collaboration on ML/data projects, open-source contributions, contract work
+## 🚀 Highlight Projects
+
+- 🔁 [**ETL-Pipeline**](https://github.com/lokeshj2403/ETL-Pipeline) — Real-time Binance API data pipeline with MySQL, deduplication, and Docker support.
+- 🔐 [**Malware-Classification**](https://github.com/lokeshj2403/Malware-Classification) — Traditional ML + CNN/RNN deep learning hybrid achieving 99.11% accuracy.
+- 📊 [**R Shiny Projects**](https://github.com/lokeshj2403/R) — Dashboard apps for data visualization, voting systems, and digit recognition using R and Keras.
 
 ---
 
-## 📊 GitHub Stats  
-[Badges or shields can be inserted here — e.g., total stars, top languages, activity chart]
+## 🌐 Let's Connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/lokeshj2403" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" alt="LinkedIn" />
+  </a>
+  <a href="mailto:lokeshj2403@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50" alt="Gmail" />
+  </a>
+</p>
 
 ---
 
-**Thanks for stopping by! Feel free to explore my repositories and reach out.**
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lokeshj2403&show_icons=true&theme=tokyonight" height="180" />
+  <img src="https://streak-stats.demolab.com?user=lokeshj2403&theme=tokyonight&hide_border=false" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokeshj2403&layout=compact&theme=tokyonight" height="160"/>
+</p>
 
 ---
 
-*_Note: Projects reflect the latest updates as of July 2025._*
+## 🏷️ GitHub Badge
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif" height="25px">
+</p>
+
+---
+
+_Thanks for visiting! 🚀_
